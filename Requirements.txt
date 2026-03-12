@@ -1,0 +1,7 @@
+| Library               | Purpose                    |
+| --------------------- | -------------------------- |
+| `streamlit`           | Runs the web app interface |
+| `google-generativeai` | Connects to the Gemini API |
+| `Pillow`              | Handles image files        |
+| `SpeechRecognition`   | Voice symptom input        |
+| `pydub`               | Audio processing           |
