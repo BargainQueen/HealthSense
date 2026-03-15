@@ -1,0 +1,6 @@
+Python
+Streamlit
+Amazon Web Services (AWS)
+Amazon Bedrock
+Amazon Nova
+Boto3
